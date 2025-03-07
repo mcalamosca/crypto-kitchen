@@ -1,0 +1,10 @@
+{
+  "name": "momentum-dashboard-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/momentum-dashboard-e2e/src",
+  "implicitDependencies": ["momentum-dashboard"],
+  "tags": [],
+  "// targets": "to see all targets run: nx show project momentum-dashboard-e2e --web",
+  "targets": {}
+}
